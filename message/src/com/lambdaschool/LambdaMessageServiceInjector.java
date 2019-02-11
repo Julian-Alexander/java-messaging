@@ -1,5 +1,6 @@
 package com.lambdaschool;
 
+// Will be needed for each message type
 public class LambdaMessageInjector implements MessageServiceInjector
 {
     @Override
